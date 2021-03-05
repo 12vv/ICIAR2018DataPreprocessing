@@ -1,0 +1,10 @@
+__pycache__/
+vene/
+
+WSI/*
+
+# 排除所有.开头的隐藏文件:
+.*
+
+# 不排除.gitignore和App.class:
+!.gitignore
