@@ -35,7 +35,7 @@ After runing the main script, results of image patches will be generated in `spl
 ![splited_svs_little and splited_xml_little samples](https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/2.png)
 
 
-## Acknowledgment
+## Acknowledgments
 The script `xml_to_mask.py` is borrowed from [brendonlutnick/extract_xml_region](https://github.com/brendonlutnick/extract_xml_region), and the whole project is inspired by it.
 
 
