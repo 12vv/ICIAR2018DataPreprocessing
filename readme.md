@@ -33,14 +33,16 @@ After runing the main script, results of image patches will be generated in `spl
 
 `Original .svs whole slide image preview`
 <p align="center">
-<img width="200" src="https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/svs_preview.png">
+<img width="500" src="https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/svs_preview.png">
 </p>
 
 `splited_svs and splited_xml samples` & `splited_svs_little and splited_xml_little samples`
-<img align="left" width="200" src="https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/1.png">
+<p align="center">
+<img align="left" width="350" src="https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/1.png">
 
-<img align="left" width="200" src="https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/2.png">
+<img align="left" width="350" src="https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/2.png">
 
+</p>
 
 
 
