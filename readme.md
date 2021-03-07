@@ -30,7 +30,7 @@ After runing the main script, results of image patches will be generated in `spl
 - **splited_xml_little_P**: Gray sclae version of 1000 x 1000 RGB images cropped from splited_xml, annotate type as the pixel value.
 - **splited_svs_resize**: Resized 500 x 500 RGB images patches of splited_svs.
 
-![Original .svs whole slide image preview](https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/1.png)
+![Original .svs whole slide image preview](https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/svs_preview.png)
 
 ![splited_svs and splited_xml samples](https://github.com/12vv/ICIAR2018DataPreprocessing/blob/master/images/1.png)
 
